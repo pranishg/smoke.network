@@ -1,1 +1,1 @@
-# smoke.network
+# smoke.network assets
